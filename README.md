@@ -10,7 +10,7 @@
 
 * **TODAS LAS AREAS OBLIGATORIO** [Safety](https://www.nakka-rocketry.net/safety.html)
 
-#Tarea Fuente de Voltaje
+# Tarea Fuente de Voltaje
 * Subir su fuente de voltaje diseñada en KiCad
 ---
 
