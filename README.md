@@ -22,5 +22,5 @@ Dentro de tu carpeta, debes incluir los archivos de **KiCad** de tu fuente de vo
 
 ### 3. Proceso de Subida (Git)
 1- CLonar el repositorio con el siguinte comando:
-
-git clone https://github.com/USUARIO/REPO-SAFIN.git
+```bash
+https://github.com/ElesMiranda/SAFI-S-.git
