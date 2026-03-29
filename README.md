@@ -10,7 +10,7 @@ Para mantener el orden del repositorio, todos los nuevos integrantes deben segui
 
 ### 1. Estructura de Carpetas
 No subas archivos sueltos a la raíz. Debes crear una carpeta con tu **Nombre Completo** siguiendo este formato:
-`Nombre del Equipo/Apellido_Nombre/`
+`Crpeta del equipo/Nombre Completo _ area dentro del capitulo`
 
 ### 2. Contenido Requerido
 Dentro de tu carpeta, debes incluir los archivos de **KiCad** de tu fuente de voltaje:
