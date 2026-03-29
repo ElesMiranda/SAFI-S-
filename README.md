@@ -31,13 +31,15 @@ Dentro de tu carpeta, debes incluir los archivos de **KiCad** de tu fuente de vo
 *   **/PDF** (para la tarea de propulsión y Aeroestructuras)
 
 ### 3. Proceso de Subida (Git)
-1- CLonar el repositorio con el siguinte comando:
+1- Clonar el repositorio con el siguinte comando:
 ```bash
 git clone https://github.com/ElesMiranda/SAFI-S-.git
 ```
 2- crea tu Carpeta
 
-3- sube los cambios
+3- sube tus archivos y Resumen
+
+4- sube los cambios
 
 ```bash
 git add .  
