@@ -24,3 +24,14 @@ Dentro de tu carpeta, debes incluir los archivos de **KiCad** de tu fuente de vo
 1- CLonar el repositorio con el siguinte comando:
 ```bash
 git clone https://github.com/ElesMiranda/SAFI-S-.git
+```
+2- crea tu Carpeta
+
+3- sube los cambios
+
+```bash
+git add .  
+
+git commit -m "Entrega Fuente de Voltaje - [Tu Nombre]"
+
+git push origin main
