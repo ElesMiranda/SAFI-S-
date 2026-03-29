@@ -2,6 +2,8 @@
 
 ¡Bienvenidos al equipo de **SAFIs**! Este espacio está diseñado para centralizar las **tareas unicamnete para ver quien chambea y quien no ;)**.
 
+Si son de propulsión su tarea es leer "Teoria Sobre Motores Cohete de Propelente Solido https://www.nakka-rocketry.net/articles/teoria_de_los_motores_cohete.pdf" 
+Para los que son de aeroestrucutuas leer "Fins for Rocket Stability  https://www.nakka-rocketry.net/fins.html"
 ---
 
 ##  Instrucciones de Entrega
@@ -18,7 +20,7 @@ Dentro de tu carpeta, debes incluir los archivos de **KiCad** de tu fuente de vo
 *   `*.kicad_pcb` (Diseño de placa)
 *   `*.kicad_pro` (Archivo de proyecto)
 *   **/Gerbers** (Carpeta con los archivos de fabricación)
-*   **/PDF** (Exportación del esquemático en PDF para visualización rápida)
+*   **/PDF** (para la tarea de propulsión y Aeroestructuras)
 
 ### 3. Proceso de Subida (Git)
 1- CLonar el repositorio con el siguinte comando:
