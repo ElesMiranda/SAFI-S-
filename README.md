@@ -4,9 +4,9 @@
 
 # Tarea resumen PDF
 
-**Propulsión** [Teoria Sobre Motores Cohete de Propelente Solido](https://www.nakka-rocketry.net/articles/teoria_de_los_motores_cohete.pdf) 
+**Propulsión** <small>[Teoria Sobre Motores Cohete de Propelente Solido](https://www.nakka-rocketry.net/articles/teoria_de_los_motores_cohete.pdf) 
 
-**Aeroestructuras** [Fins for Rocket Stability](https://www.nakka-rocketry.net/fins.html)
+**Aeroestructuras** <small> [Fins for Rocket Stability](https://www.nakka-rocketry.net/fins.html)
 ---
 
 ##  Instrucciones de Entrega
