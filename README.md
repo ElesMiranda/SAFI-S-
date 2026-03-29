@@ -19,7 +19,7 @@
 Para mantener el orden del repositorio, todos los nuevos integrantes deben seguir estas reglas de contribución:
 
 ### 1. Estructura de Carpetas
-No subas archivos sueltos a la raíz. Debes crear una carpeta dentro de la carpeta con el Nombre de tu equipo (deben cambiar el nombre al nombre que elegieron para su equipo) con tu **Nombre Completo** siguiendo este formato:
+No subas archivos sueltos a la raíz. Debes crear una carpeta dentro de la carpeta con el Nombre de tu equipo `deben cambiar el nombre al nombre que elegieron para su equipo` con tu **Nombre Completo** siguiendo este formato:
 `Carpeta del equipo/Nombre Completo _ area dentro del capitulo`
 
 ### 2. Contenido Requerido
