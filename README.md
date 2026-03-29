@@ -2,8 +2,10 @@
 
 ¡Bienvenidos al equipo de **SAFIs**! Este espacio está diseñado para centralizar las tareas unicamnete para ver quien chambea y quien no ;).
 
-Si son de propulsión su tarea es leer **[Teoria Sobre Motores Cohete de Propelente Solido](https://www.nakka-rocketry.net/articles/teoria_de_los_motores_cohete.pdf)** 
-Para los que son de aeroestrucutuas leer **[Fins for Rocket Stability](https://www.nakka-rocketry.net/fins.html)**
+# Tarea resumen PDF
+
+**Propulsión** [Teoria Sobre Motores Cohete de Propelente Solido](https://www.nakka-rocketry.net/articles/teoria_de_los_motores_cohete.pdf)** 
+**Aeroestructuras** [Fins for Rocket Stability](https://www.nakka-rocketry.net/fins.html)**
 ---
 
 ##  Instrucciones de Entrega
